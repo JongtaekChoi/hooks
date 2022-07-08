@@ -1,0 +1,22 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "custom hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JongtaekChoi/hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JongtaekChoi/hooks/issues"
+  },
+  "homepage": "https://github.com/JongtaekChoi/hooks#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
